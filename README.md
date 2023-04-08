@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Spidy</h1>
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Ultroid](https://github.com/TeamUltroid/Ultroid)
 - 🌱 I’m currently learning React, Javascript
