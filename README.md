@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React, Javascript
 - 💬 Ask me about ...
 - 📫 How to reach me: [Mail me](mailto:spidy@ultroid.tech)
-- 😄 Pronouns: Idk
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Will say later.....
 
 <!--
