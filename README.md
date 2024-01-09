@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramshouriesh</h1>
+<h1 align="center">Hi 👋, I'm Ramshouriesh (aka sppidy)</h1>
 
 - 🔭 I’m currently working on [Ultroid](https://github.com/TeamUltroid/Ultroid)
 - 🌱 I’m currently learning React, Javascript
