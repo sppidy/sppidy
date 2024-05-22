@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ramshouriesh (aka sppidy)</h1>
 
-- 🔭 I’m currently working on [Ultroid](https://github.com/TeamUltroid/Ultroid)
-- 🌱 I’m currently learning React, Javascript
-- 📫 How to reach me: [Mail me](mailto:spidy@sppidy.live) [Telegram](https://t.me/sppidy)
+- 🔭 I’m currently working on Nothing(As of Now)
+- 🌱 I’m currently learning Javascript, React, Android 
+- 📫 How to reach me: [Mail me](mailto:spidy@sppidy.in) [Telegram](https://t.me/sppidy)
 - 😄 Pronouns: He/Him
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sppidy&label=Profile%20views&color=0e75b6&style=flat" alt="sppidy" /> </p>
